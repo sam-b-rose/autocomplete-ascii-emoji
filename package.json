@@ -1,0 +1,32 @@
+{
+  "name": "autocomplete-ascii-emoji",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "Adds ASCII emoji autocompletion to autocomplete+",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atom/autocomplete-ascii-emoji"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "fuzzaldrin": "^2.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-apm": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "load-grunt-tasks": "^3.1.0",
+    "request": "^2.55.0",
+    "time-grunt": "^1.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  }
+}
