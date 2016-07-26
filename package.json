@@ -1,11 +1,11 @@
 {
   "name": "autocomplete-ascii-emoji",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Adds ASCII emoji autocompletion to autocomplete+",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/autocomplete-ascii-emoji"
+    "url": "https://github.com/samrose3/autocomplete-ascii-emoji"
   },
   "license": "MIT",
   "engines": {
