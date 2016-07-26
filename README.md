@@ -4,7 +4,7 @@
 
 [View the changelog](https://github.com/samrose3/autocomplete-ascii-emoji/blob/master/CHANGELOG.md)
 
-Adds ASCII emoji (like ¯\\\_(ツ)_/¯) autocompletion to autocomplete-plus.
+Adds ASCII emoji autocompletion to autocomplete-plus ¯\\\_(ツ)_/¯
 
 ![confused](https://www.dropbox.com/s/aob7bbq60lpnfuy/autocomplete-confused.gif?dl=1)
 
