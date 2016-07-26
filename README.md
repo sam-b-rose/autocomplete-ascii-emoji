@@ -2,7 +2,7 @@
 
 <!-- [![Build Status](https://travis-ci.org/atom/autocomplete-emojis.svg?branch=master)](https://travis-ci.org/atom/autocomplete-emojis) -->
 
-[View the changelog](https://github.com/atom/autocomplete-ascii-emojis/blob/master/CHANGELOG.md)
+[View the changelog](https://github.com/samrose3/autocomplete-ascii-emoji/blob/master/CHANGELOG.md)
 
 Adds ASCII emoji (like ¯\\\_(ツ)_/¯) autocompletion to autocomplete-plus.
 
