@@ -4,13 +4,13 @@
 
 Adds ASCII emoji autocompletion to autocomplete-plus ¯\\\_(ツ)_/¯
 
-![confused](https://www.dropbox.com/s/aob7bbq60lpnfuy/autocomplete-confused.gif?dl=1)
+![example1](https://www.dropbox.com/s/aob7bbq60lpnfuy/autocomplete-confused.gif?dl=1)
 
 ## Features
 
 * Shows ASCII emojis as suggestions when typing ```:``` and a word
 
-![happy](https://www.dropbox.com/s/9znfplu13tq62h3/autocomplete-happy.gif?dl=1)
+![example2](https://www.dropbox.com/s/iuawnhpvr9i7rw6/autocomplete-contrib.gif?dl=1)
 
 * Atom command to open Cheat Sheet for quick reference
 
