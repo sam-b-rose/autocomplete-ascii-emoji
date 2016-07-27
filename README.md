@@ -1,6 +1,4 @@
-# autocomplete+ ascii emojis
-
-<!-- [![Build Status](https://travis-ci.org/atom/autocomplete-emojis.svg?branch=master)](https://travis-ci.org/atom/autocomplete-emojis) -->
+# autocomplete+ ascii emojis [![Build Status](https://travis-ci.org/samrose3/autocomplete-ascii-emoji.svg?branch=master)](https://travis-ci.org/samrose3/autocomplete-ascii-emoji)
 
 [View the changelog](https://github.com/samrose3/autocomplete-ascii-emoji/blob/master/CHANGELOG.md)
 
