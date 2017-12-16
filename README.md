@@ -4,17 +4,17 @@
 
 Adds ASCII emoji autocompletion to autocomplete-plus ¯\\\_(ツ)_/¯
 
-![example1](https://www.dropbox.com/s/aob7bbq60lpnfuy/autocomplete-confused.gif?dl=1)
+![example1](http://res.cloudinary.com/samrose3/image/upload/v1513430121/autocomplete-confused_rl5woz.gif)
 
 ## Features
 
 * Shows ASCII emojis as suggestions when typing ```:``` and a word
 
-![example2](https://www.dropbox.com/s/iuawnhpvr9i7rw6/autocomplete-contrib.gif?dl=1)
+![example2](http://res.cloudinary.com/samrose3/image/upload/v1513430121/autocomplete-contrib_jclsfs.gif)
 
 * Atom command to open Cheat Sheet for quick reference
 
-![cheat-sheeet](https://www.dropbox.com/s/6hfxs3e39a43h0y/autocomplete-cheat-sheet.gif?dl=1)
+![cheat-sheeet](http://res.cloudinary.com/samrose3/image/upload/v1513430121/autocomplete-cheat-sheet_jvw3ql.gif)
 
 
 ## Scopes
